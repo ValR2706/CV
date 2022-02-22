@@ -338,7 +338,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: lightgreen;
+  color: green;
   float: left;
   line-height: 0;
 }
@@ -361,7 +361,7 @@ section {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: darkgreen;
+  color: rgb(2, 122, 2);
   font-size: 15px;
   font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
